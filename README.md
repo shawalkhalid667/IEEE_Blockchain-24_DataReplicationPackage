@@ -2,15 +2,15 @@
 
 This contains scripts to collect and analyze crypto signals data on  X (formerly Twitter) to understand the impact of crypto signals on users. Descriptions of the folder contents with the paper sections are provided below:
 
+## Overview
+Social media platforms have significantly influenced user behavior and market values within the cryptocurrency industry. However, assessing this impact poses challenges due to market volatility and evolving mechanisms. In response, this project investigates user perceptions of crypto signals on X (formerly Twitter). We introduce the CryptoSignalMonitor dataset and conduct a preliminary analysis to understand the impact of X crypto signals on user behavior and investment decisions.
+
+
 ## Data Collection
 
 * TweetingCryptoAnalysisDataset.xlsx: Dataset containing the X crypto signal data of popular crypto-related tweets, cryptocurrency value metrics for before and after signals, and data regarding the replies to crypto signal posts (Tweets Replies Data tab).
 
 * replies.py: Script to collect the comments replying from users on crypto signals in our dataset.
-
-
-## Overview
-Social media platforms have significantly influenced user behavior and market values within the cryptocurrency industry. However, assessing this impact poses challenges due to market volatility and evolving mechanisms. In response, this project investigates user perceptions of crypto signals on X (formerly Twitter). We introduce the CryptoSignalMonitor dataset and conduct a preliminary analysis to understand the impact of X crypto signals on user behavior and investment decisions.
 
 
 ## Key Findings
